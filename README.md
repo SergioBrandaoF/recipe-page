@@ -14,7 +14,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### The challenge
 
-To build a responsive socila media links profile.
+To build a responsive social media links profile.
 
 ### Screenshot
 
